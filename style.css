@@ -1,0 +1,32 @@
+.h1 {
+  font-size: 250px;
+}
+
+
+.fw1 {
+  font-weight: 900;
+}
+
+
+
+.body {
+  font-family: athelas, georgia, serif;
+}
+
+.pv2 {
+  padding-top: .5rem;
+  padding-bottom: .5rem;
+}
+
+
+
+
+
+.f6 {
+    font-size: .875rem;
+}
+
+.dim {
+    opacity: 1;
+    transition: opacity .15s ease-in;
+}
